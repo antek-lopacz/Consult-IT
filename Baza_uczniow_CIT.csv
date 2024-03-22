@@ -1,0 +1,301 @@
+index,name,sex,age,language,level,hobby,type
+1,Adrianna,Kobieta,11,francuski,B1,piłka ręczna,stacjonarnie
+2,Edward,Mężczyzna,17,francuski,A1,koszykówka,zdalnie
+3,Monika,Kobieta,17,angielski,B1,koszykówka,zdalnie
+4,Monika,Kobieta,16,niemiecki,A1,malowanie,zdalnie
+5,Jakub,Mężczyzna,21,angielski,C1,anime,zdalnie
+6,Zuzanna,Kobieta,25,francuski,A1,koszykówka,stacjonarnie
+7,Edward,Mężczyzna,17,francuski,A1,gry wideo,stacjonarnie
+8,Adam,Mężczyzna,21,niemiecki,A1,gra na pianino,stacjonarnie
+9,Nadia,Kobieta,19,angielski,B2,gry wideo,stacjonarnie
+10,Agata,Kobieta,11,niemiecki,A2,siatkówka,stacjonarnie
+11,Maja,Kobieta,10,włoski,A2,gra na gitarze,zdalnie
+12,Eliza,Kobieta,11,francuski,A2,piłka ręczna,zdalnie
+13,Eliza,Kobieta,22,francuski,A2,pływanie,stacjonarnie
+14,Miłosz,Mężczyzna,19,francuski,C2,muzyka,zdalnie
+15,Nadia,Kobieta,14,angielski,A1,pływanie,stacjonarnie
+16,Kazimierz,Mężczyzna,24,angielski,A2,muzyka,stacjonarnie
+17,Sylwia,Kobieta,20,włoski,A2,jazda konna,zdalnie
+18,Franciszek,Mężczyzna,17,angielski,A1,gra na gitarze,stacjonarnie
+19,Bogumiła,Kobieta,20,angielski,A1,piłka nożna,stacjonarnie
+20,Kazimierz,Mężczyzna,25,francuski,B2,gra na skrzypcach,stacjonarnie
+21,Edward,Mężczyzna,18,hiszpański,B1,taniec hip hop,stacjonarnie
+22,Marceli,Mężczyzna,10,włoski,B1,jazda na rowerze,stacjonarnie
+23,Joanna,Kobieta,15,niemiecki,B2,gry wideo,stacjonarnie
+24,Hubert,Mężczyzna,24,angielski,A1,jazda konna,stacjonarnie
+25,Weronika,Kobieta,12,włoski,A1,siatkówka,stacjonarnie
+26,Henryk,Mężczyzna,22,hiszpański,A2,gry wideo,stacjonarnie
+27,Hubert,Mężczyzna,12,włoski,A1,gry wideo,stacjonarnie
+28,Daniel,Mężczyzna,18,niemiecki,B1,gra na pianino,stacjonarnie
+29,Zygmunt,Mężczyzna,8,angielski,A2,siatkówka,stacjonarnie
+30,Maciej,Mężczyzna,15,włoski,C1,piłka ręczna,stacjonarnie
+31,Nadia,Kobieta,21,włoski,A2,anime,zdalnie
+32,Igor,Mężczyzna,17,hiszpański,A1,programowanie,stacjonarnie
+33,Elżbieta,Kobieta,10,francuski,A2,taniec hip hop,stacjonarnie
+34,Wojciech,Mężczyzna,18,angielski,B1,pływanie,stacjonarnie
+35,Bogumiła,Kobieta,21,rosyjski,C2,malowanie,stacjonarnie
+36,Marceli,Mężczyzna,11,niemiecki,A2,gry wideo,stacjonarnie
+37,Henryk,Mężczyzna,18,angielski,B2,gra na perkusji,stacjonarnie
+38,Antoni,Mężczyzna,11,włoski,A2,siatkówka,stacjonarnie
+39,Gabriela,Kobieta,15,angielski,A2,koszykówka,stacjonarnie
+40,Pola,Kobieta,14,angielski,C1,koszykówka,stacjonarnie
+41,Czesław,Mężczyzna,15,angielski,C1,gry wideo,zdalnie
+42,Aurelia,Kobieta,14,angielski,A2,muzyka,stacjonarnie
+43,Darek,Mężczyzna,11,włoski,A1,koszykówka,zdalnie
+44,Kasia,Kobieta,19,francuski,B1,anime,stacjonarnie
+45,Miłosz,Mężczyzna,19,angielski,A1,piłka ręczna,stacjonarnie
+46,Marek,Mężczyzna,18,niemiecki,A1,czytanie książek,stacjonarnie
+47,Maksymilian,Mężczyzna,14,włoski,A1,jazda na rolkach,zdalnie
+48,Daniel,Mężczyzna,12,niemiecki,B1,jazda na rolkach,zdalnie
+49,Maja,Kobieta,20,włoski,C1,gra na perkusji,zdalnie
+50,Malwina,Kobieta,9,włoski,A1,gra na perkusji,zdalnie
+51,Sandra,Kobieta,16,hiszpański,B2,gry wideo,stacjonarnie
+52,Jakub,Mężczyzna,13,angielski,C1,gry planszowe,stacjonarnie
+53,Julian,Mężczyzna,14,rosyjski,B1,siatkówka,stacjonarnie
+54,Andrzej,Mężczyzna,25,włoski,A2,gra na gitarze,zdalnie
+55,Wiktoria,Kobieta,12,hiszpański,B1,gra na pianino,zdalnie
+56,Marek,Mężczyzna,16,włoski,B2,piłka ręczna,zdalnie
+57,Kasia,Kobieta,20,niemiecki,C2,gry wideo,zdalnie
+58,Monika,Kobieta,23,angielski,B1,taniec hip hop,stacjonarnie
+59,Julia,Kobieta,24,hiszpański,C2,gra na pianino,zdalnie
+60,Natalia,Kobieta,14,hiszpański,B1,jazda na rowerze,stacjonarnie
+61,Igor,Mężczyzna,21,włoski,C2,muzyka,zdalnie
+62,Darek,Mężczyzna,14,angielski,A2,muzyka,stacjonarnie
+63,Darek,Mężczyzna,23,włoski,B1,gra na gitarze,zdalnie
+64,Bogusław,Mężczyzna,19,niemiecki,C2,koszykówka,stacjonarnie
+65,Patryk,Mężczyzna,16,angielski,B1,programowanie,stacjonarnie
+66,Nadia,Kobieta,20,hiszpański,A1,czytanie książek,zdalnie
+67,Amelia,Kobieta,10,angielski,A2,siatkówka,stacjonarnie
+68,Adam,Mężczyzna,15,angielski,A1,gra na pianino,zdalnie
+69,Maciej,Mężczyzna,14,rosyjski,B1,pływanie,stacjonarnie
+70,Pola,Kobieta,17,niemiecki,A1,jazda na rowerze,zdalnie
+71,Jakub,Mężczyzna,11,niemiecki,B1,siatkówka,stacjonarnie
+72,Damian,Mężczyzna,15,angielski,A2,gry wideo,stacjonarnie
+73,Michalina,Kobieta,18,włoski,B2,koszykówka,zdalnie
+74,Daniel,Mężczyzna,22,rosyjski,B2,taniec towarzyski,stacjonarnie
+75,Józef,Mężczyzna,17,niemiecki,C2,siatkówka,stacjonarnie
+76,Wojciech,Mężczyzna,14,niemiecki,B1,taniec hip hop,zdalnie
+77,Helena,Kobieta,16,angielski,A2,siatkówka,zdalnie
+78,Lena,Kobieta,18,włoski,A2,muzyka,zdalnie
+79,Aurelia,Kobieta,11,angielski,A1,malowanie,stacjonarnie
+80,Maja,Kobieta,25,francuski,B1,muzyka,stacjonarnie
+81,Gabriela,Kobieta,18,angielski,A1,piłka nożna,stacjonarnie
+82,Julian,Mężczyzna,8,niemiecki,A2,siatkówka,stacjonarnie
+83,Maja,Kobieta,18,niemiecki,A2,programowanie,stacjonarnie
+84,Henryk,Mężczyzna,23,hiszpański,B1,gra na pianino,zdalnie
+85,Julian,Mężczyzna,12,angielski,B1,czytanie książek,stacjonarnie
+86,Józef,Mężczyzna,17,hiszpański,C2,piłka ręczna,zdalnie
+87,Damian,Mężczyzna,9,niemiecki,B1,taniec towarzyski,zdalnie
+88,Wojciech,Mężczyzna,8,angielski,A1,gra na perkusji,stacjonarnie
+89,Joanna,Kobieta,23,francuski,A1,piłka ręczna,stacjonarnie
+90,Patryk,Mężczyzna,14,angielski,B2,pływanie,stacjonarnie
+91,Marek,Mężczyzna,16,rosyjski,A2,jazda konna,zdalnie
+92,Pola,Kobieta,18,angielski,C1,piłka nożna,stacjonarnie
+93,Damian,Mężczyzna,10,hiszpański,B1,piłka ręczna,stacjonarnie
+94,Aurelia,Kobieta,19,angielski,A2,malowanie,stacjonarnie
+95,Natalia,Kobieta,22,francuski,A1,muzyka,zdalnie
+96,Damian,Mężczyzna,26,hiszpański,B1,programowanie,stacjonarnie
+97,Maciej,Mężczyzna,18,włoski,A2,gra na pianino,zdalnie
+98,Marceli,Mężczyzna,23,niemiecki,C1,piłka nożna,stacjonarnie
+99,Bogumiła,Kobieta,19,angielski,B1,malowanie,zdalnie
+100,Darek,Mężczyzna,17,niemiecki,B2,koszykówka,stacjonarnie
+101,Daniel,Mężczyzna,11,hiszpański,A1,muzyka,stacjonarnie
+102,Marcelina,Kobieta,12,angielski,B1,gra na skrzypcach,zdalnie
+103,Marek,Mężczyzna,19,rosyjski,B2,taniec hip hop,stacjonarnie
+104,Maciej,Mężczyzna,23,francuski,C2,gra na gitarze,stacjonarnie
+105,Amadeusz,Mężczyzna,21,angielski,A1,jazda na rolkach,stacjonarnie
+106,Aurelia,Kobieta,9,włoski,A1,jazda na rowerze,zdalnie
+107,Hubert,Mężczyzna,16,angielski,B1,piłka nożna,stacjonarnie
+108,Amelia,Kobieta,13,włoski,A1,gry wideo,zdalnie
+109,Pola,Kobieta,10,hiszpański,B1,piłka ręczna,stacjonarnie
+110,Maciej,Mężczyzna,17,rosyjski,C2,piłka nożna,zdalnie
+111,Sandra,Kobieta,13,angielski,A1,gra na skrzypcach,stacjonarnie
+112,Franciszek,Mężczyzna,12,niemiecki,B1,gry wideo,stacjonarnie
+113,Zygmunt,Mężczyzna,19,rosyjski,C2,programowanie,stacjonarnie
+114,Wojciech,Mężczyzna,18,angielski,C2,gra na gitarze,zdalnie
+115,Weronika,Kobieta,16,angielski,A1,piłka nożna,zdalnie
+116,Nadia,Kobieta,14,niemiecki,B2,gry wideo,zdalnie
+117,Damian,Mężczyzna,15,niemiecki,A2,malowanie,stacjonarnie
+118,Sylwia,Kobieta,16,angielski,B2,jazda na rowerze,stacjonarnie
+119,Elżbieta,Kobieta,18,angielski,C1,piłka ręczna,stacjonarnie
+120,Michał,Mężczyzna,17,włoski,B1,jazda konna,zdalnie
+121,Zuzanna,Kobieta,20,angielski,B1,gra na gitarze,zdalnie
+122,Hania,Kobieta,19,włoski,B2,jazda na rolkach,stacjonarnie
+123,Pola,Kobieta,11,angielski,B1,malowanie,stacjonarnie
+124,Wojciech,Mężczyzna,17,angielski,B1,gra na pianino,zdalnie
+125,Agata,Kobieta,13,angielski,A1,gra na pianino,stacjonarnie
+126,Michał,Mężczyzna,8,francuski,B1,gry wideo,stacjonarnie
+127,Zygmunt,Mężczyzna,14,angielski,C1,jazda konna,zdalnie
+128,Amadeusz,Mężczyzna,24,rosyjski,A1,pływanie,zdalnie
+129,Gabriela,Kobieta,13,włoski,A1,programowanie,zdalnie
+130,Maksymilian,Mężczyzna,10,niemiecki,B1,jazda na rolkach,stacjonarnie
+131,Julian,Mężczyzna,14,niemiecki,B1,piłka ręczna,zdalnie
+132,Edward,Mężczyzna,19,francuski,B2,czytanie książek,stacjonarnie
+133,Zofia,Kobieta,14,francuski,B2,siatkówka,zdalnie
+134,Wiktoria,Kobieta,20,rosyjski,B1,programowanie,zdalnie
+135,Amelia,Kobieta,21,angielski,A2,gra na pianino,stacjonarnie
+136,Amelia,Kobieta,13,włoski,C1,pływanie,stacjonarnie
+137,Malwina,Kobieta,10,niemiecki,A1,jazda na rolkach,stacjonarnie
+138,Maksymilian,Mężczyzna,9,niemiecki,A1,programowanie,zdalnie
+139,Igor,Mężczyzna,16,angielski,B1,gry planszowe,stacjonarnie
+140,Aurelia,Kobieta,21,włoski,A1,gra na pianino,stacjonarnie
+141,Maciej,Mężczyzna,24,włoski,A2,gry wideo,zdalnie
+142,Anastazja,Kobieta,11,angielski,B1,gra na skrzypcach,stacjonarnie
+143,Aurelia,Kobieta,18,francuski,A1,gra na skrzypcach,stacjonarnie
+144,Franciszek,Mężczyzna,13,niemiecki,B1,gra na gitarze,stacjonarnie
+145,Joanna,Kobieta,17,francuski,A1,gry wideo,stacjonarnie
+146,Andrzej,Mężczyzna,10,niemiecki,A1,gry wideo,stacjonarnie
+147,Jakub,Mężczyzna,18,niemiecki,B1,gra na gitarze,stacjonarnie
+148,Czesław,Mężczyzna,26,rosyjski,A2,gry wideo,stacjonarnie
+149,Malwina,Kobieta,25,niemiecki,B2,gra na perkusji,stacjonarnie
+150,Amadeusz,Mężczyzna,12,hiszpański,A2,koszykówka,zdalnie
+151,Nadia,Kobieta,16,niemiecki,C2,jazda konna,zdalnie
+152,Maksymilian,Mężczyzna,16,włoski,B1,gry planszowe,stacjonarnie
+153,Natalia,Kobieta,20,angielski,C1,taniec hip hop,zdalnie
+154,Daniel,Mężczyzna,20,niemiecki,A2,gry planszowe,stacjonarnie
+155,Wojciech,Mężczyzna,16,angielski,C2,taniec hip hop,zdalnie
+156,Agata,Kobieta,9,angielski,B1,muzyka,stacjonarnie
+157,Adrianna,Kobieta,18,hiszpański,A2,jazda konna,stacjonarnie
+158,Monika,Kobieta,19,francuski,B1,taniec hip hop,stacjonarnie
+159,Daniel,Mężczyzna,23,angielski,C1,siatkówka,stacjonarnie
+160,Marceli,Mężczyzna,16,niemiecki,A2,siatkówka,stacjonarnie
+161,Amelia,Kobieta,16,niemiecki,A1,czytanie książek,stacjonarnie
+162,Monika,Kobieta,15,angielski,C1,piłka ręczna,zdalnie
+163,Agata,Kobieta,12,włoski,A1,gra na pianino,stacjonarnie
+164,Julian,Mężczyzna,17,hiszpański,A1,piłka nożna,stacjonarnie
+165,Malwina,Kobieta,10,angielski,A2,taniec towarzyski,zdalnie
+166,Malwina,Kobieta,12,włoski,A2,gry wideo,stacjonarnie
+167,Malwina,Kobieta,19,angielski,C1,muzyka,zdalnie
+168,Natalia,Kobieta,19,angielski,C1,gry planszowe,stacjonarnie
+169,Pola,Kobieta,16,niemiecki,B1,muzyka,stacjonarnie
+170,Eliza,Kobieta,23,rosyjski,B1,gra na pianino,stacjonarnie
+171,Sylwia,Kobieta,18,włoski,A1,koszykówka,stacjonarnie
+172,Michalina,Kobieta,19,niemiecki,C1,siatkówka,stacjonarnie
+173,Patryk,Mężczyzna,20,hiszpański,A1,gra na gitarze,stacjonarnie
+174,Maja,Kobieta,15,włoski,B2,czytanie książek,zdalnie
+175,Bogumiła,Kobieta,15,włoski,A1,koszykówka,stacjonarnie
+176,Wiktoria,Kobieta,21,angielski,A2,siatkówka,zdalnie
+177,Nadia,Kobieta,24,angielski,B2,piłka nożna,stacjonarnie
+178,Franciszek,Mężczyzna,20,rosyjski,A1,piłka nożna,stacjonarnie
+179,Joanna,Kobieta,26,niemiecki,A1,siatkówka,zdalnie
+180,Igor,Mężczyzna,25,włoski,A2,gra na perkusji,stacjonarnie
+181,Hubert,Mężczyzna,16,angielski,A1,czytanie książek,stacjonarnie
+182,Pola,Kobieta,18,hiszpański,A2,jazda konna,zdalnie
+183,Marek,Mężczyzna,13,angielski,B2,gry wideo,stacjonarnie
+184,Hania,Kobieta,18,angielski,B1,piłka ręczna,stacjonarnie
+185,Amelia,Kobieta,10,francuski,A1,jazda konna,zdalnie
+186,Wiktoria,Kobieta,18,niemiecki,A2,jazda na rowerze,stacjonarnie
+187,Antoni,Mężczyzna,14,rosyjski,C1,gry planszowe,zdalnie
+188,Michał,Mężczyzna,16,francuski,B2,jazda konna,zdalnie
+189,Lena,Kobieta,19,włoski,A1,malowanie,stacjonarnie
+190,Maja,Kobieta,21,niemiecki,A2,gra na skrzypcach,zdalnie
+191,Miłosz,Mężczyzna,10,angielski,A1,gra na perkusji,stacjonarnie
+192,Pola,Kobieta,9,niemiecki,A2,malowanie,stacjonarnie
+193,Monika,Kobieta,11,francuski,A1,taniec towarzyski,zdalnie
+194,Andrzej,Mężczyzna,16,rosyjski,A2,taniec towarzyski,stacjonarnie
+195,Marek,Mężczyzna,16,angielski,B2,anime,stacjonarnie
+196,Marek,Mężczyzna,18,niemiecki,A1,siatkówka,stacjonarnie
+197,Marek,Mężczyzna,13,niemiecki,C1,gra na pianino,stacjonarnie
+198,Maciej,Mężczyzna,13,francuski,A2,muzyka,stacjonarnie
+199,Maciej,Mężczyzna,24,angielski,C2,piłka nożna,stacjonarnie
+200,Franciszek,Mężczyzna,11,angielski,A2,piłka ręczna,stacjonarnie
+201,Helena,Kobieta,8,angielski,A1,gra na perkusji,zdalnie
+202,Michalina,Kobieta,25,włoski,A2,piłka ręczna,stacjonarnie
+203,Kazimierz,Mężczyzna,15,włoski,B1,piłka ręczna,stacjonarnie
+204,Gabriela,Kobieta,17,angielski,A1,muzyka,zdalnie
+205,Marek,Mężczyzna,11,angielski,B1,gra na skrzypcach,stacjonarnie
+206,Natalia,Kobieta,11,niemiecki,B1,czytanie książek,zdalnie
+207,Agata,Kobieta,15,niemiecki,A1,pływanie,stacjonarnie
+208,Gabriela,Kobieta,16,francuski,A1,piłka ręczna,zdalnie
+209,Hania,Kobieta,19,hiszpański,C1,jazda na rowerze,stacjonarnie
+210,Zygmunt,Mężczyzna,9,niemiecki,A1,muzyka,zdalnie
+211,Adrianna,Kobieta,26,francuski,C1,programowanie,stacjonarnie
+212,Adrianna,Kobieta,10,niemiecki,B1,gra na perkusji,zdalnie
+213,Gabriela,Kobieta,11,angielski,A2,piłka ręczna,stacjonarnie
+214,Bogumiła,Kobieta,26,angielski,C2,gra na perkusji,stacjonarnie
+215,Julian,Mężczyzna,14,angielski,A2,piłka nożna,stacjonarnie
+216,Błażej,Mężczyzna,18,niemiecki,C1,siatkówka,zdalnie
+217,Adrianna,Kobieta,14,francuski,A1,jazda konna,stacjonarnie
+218,Gabriela,Kobieta,16,angielski,A1,jazda na rolkach,stacjonarnie
+219,Franciszek,Mężczyzna,22,angielski,A2,koszykówka,zdalnie
+220,Marcelina,Kobieta,15,niemiecki,B2,czytanie książek,stacjonarnie
+221,Bogumiła,Kobieta,8,francuski,A2,piłka ręczna,stacjonarnie
+222,Bogusław,Mężczyzna,16,hiszpański,C2,malowanie,stacjonarnie
+223,Maciej,Mężczyzna,12,niemiecki,A1,piłka nożna,stacjonarnie
+224,Agata,Kobieta,16,angielski,A2,malowanie,stacjonarnie
+225,Adrianna,Kobieta,25,niemiecki,A2,gra na gitarze,stacjonarnie
+226,Agata,Kobieta,19,hiszpański,A1,koszykówka,stacjonarnie
+227,Zofia,Kobieta,20,francuski,B2,malowanie,zdalnie
+228,Maksymilian,Mężczyzna,17,angielski,C1,taniec towarzyski,stacjonarnie
+229,Damian,Mężczyzna,9,angielski,A1,gra na skrzypcach,stacjonarnie
+230,Maciej,Mężczyzna,14,hiszpański,A1,anime,stacjonarnie
+231,Marceli,Mężczyzna,12,niemiecki,B1,anime,stacjonarnie
+232,Helena,Kobieta,25,włoski,A2,gra na skrzypcach,stacjonarnie
+233,Adam,Mężczyzna,25,angielski,B1,taniec towarzyski,zdalnie
+234,Sylwia,Kobieta,14,angielski,A1,pływanie,zdalnie
+235,Malwina,Kobieta,8,francuski,A2,muzyka,zdalnie
+236,Bogumiła,Kobieta,18,angielski,A1,siatkówka,stacjonarnie
+237,Eliza,Kobieta,9,hiszpański,A2,programowanie,stacjonarnie
+238,Adrianna,Kobieta,11,angielski,A2,programowanie,stacjonarnie
+239,Edward,Mężczyzna,11,angielski,A2,czytanie książek,zdalnie
+240,Kazimierz,Mężczyzna,15,angielski,A1,koszykówka,stacjonarnie
+241,Franciszek,Mężczyzna,16,włoski,A2,muzyka,stacjonarnie
+242,Franciszek,Mężczyzna,16,angielski,B1,koszykówka,stacjonarnie
+243,Marceli,Mężczyzna,14,angielski,A2,jazda konna,zdalnie
+244,Bogumiła,Kobieta,16,rosyjski,B1,piłka nożna,stacjonarnie
+245,Aurelia,Kobieta,11,hiszpański,A1,jazda na rolkach,zdalnie
+246,Maksymilian,Mężczyzna,19,angielski,A2,gra na skrzypcach,stacjonarnie
+247,Miłosz,Mężczyzna,16,angielski,B1,gra na skrzypcach,stacjonarnie
+248,Helena,Kobieta,18,rosyjski,B1,gra na pianino,stacjonarnie
+249,Malwina,Kobieta,11,angielski,A2,taniec hip hop,stacjonarnie
+250,Nadia,Kobieta,11,niemiecki,B1,taniec hip hop,zdalnie
+251,Julia,Kobieta,13,włoski,B1,taniec towarzyski,stacjonarnie
+252,Nadia,Kobieta,23,włoski,B2,programowanie,stacjonarnie
+253,Marcelina,Kobieta,11,niemiecki,A1,koszykówka,stacjonarnie
+254,Gabriela,Kobieta,16,niemiecki,C2,gry wideo,stacjonarnie
+255,Michalina,Kobieta,25,angielski,C2,gry wideo,stacjonarnie
+256,Igor,Mężczyzna,20,angielski,A2,gra na perkusji,stacjonarnie
+257,Maciej,Mężczyzna,14,rosyjski,B2,malowanie,zdalnie
+258,Adam,Mężczyzna,18,niemiecki,A1,gry planszowe,stacjonarnie
+259,Franciszek,Mężczyzna,25,hiszpański,B1,anime,stacjonarnie
+260,Julian,Mężczyzna,20,angielski,B2,taniec towarzyski,stacjonarnie
+261,Kasia,Kobieta,13,hiszpański,B2,gra na perkusji,stacjonarnie
+262,Amelia,Kobieta,25,angielski,C1,gra na pianino,stacjonarnie
+263,Adam,Mężczyzna,13,angielski,B2,taniec hip hop,stacjonarnie
+264,Franciszek,Mężczyzna,19,angielski,A2,jazda konna,zdalnie
+265,Aurelia,Kobieta,26,rosyjski,A1,gra na perkusji,stacjonarnie
+266,Julian,Mężczyzna,13,hiszpański,B1,koszykówka,stacjonarnie
+267,Adam,Mężczyzna,18,włoski,C1,malowanie,stacjonarnie
+268,Weronika,Kobieta,12,włoski,A1,taniec hip hop,stacjonarnie
+269,Darek,Mężczyzna,11,włoski,B1,jazda na rolkach,stacjonarnie
+270,Adam,Mężczyzna,12,francuski,A2,jazda na rolkach,stacjonarnie
+271,Agata,Kobieta,14,niemiecki,B1,czytanie książek,stacjonarnie
+272,Czesław,Mężczyzna,20,niemiecki,B1,pływanie,stacjonarnie
+273,Marceli,Mężczyzna,20,angielski,C1,jazda na rolkach,stacjonarnie
+274,Sandra,Kobieta,12,włoski,B1,koszykówka,stacjonarnie
+275,Weronika,Kobieta,19,hiszpański,A2,jazda na rowerze,zdalnie
+276,Kazimierz,Mężczyzna,18,angielski,A2,gra na pianino,zdalnie
+277,Natalia,Kobieta,24,angielski,C1,taniec hip hop,stacjonarnie
+278,Kasia,Kobieta,22,niemiecki,A1,koszykówka,zdalnie
+279,Weronika,Kobieta,14,hiszpański,C1,anime,zdalnie
+280,Zuzanna,Kobieta,13,francuski,B2,koszykówka,zdalnie
+281,Hubert,Mężczyzna,14,hiszpański,C1,jazda konna,stacjonarnie
+282,Pola,Kobieta,10,włoski,A1,piłka nożna,stacjonarnie
+283,Michalina,Kobieta,25,angielski,B1,gra na perkusji,stacjonarnie
+284,Zuzanna,Kobieta,15,niemiecki,B1,taniec hip hop,stacjonarnie
+285,Antoni,Mężczyzna,8,rosyjski,A1,koszykówka,stacjonarnie
+286,Monika,Kobieta,16,hiszpański,B2,programowanie,zdalnie
+287,Damian,Mężczyzna,18,francuski,B1,malowanie,stacjonarnie
+288,Franciszek,Mężczyzna,17,angielski,C2,gry planszowe,stacjonarnie
+289,Zygmunt,Mężczyzna,18,niemiecki,C1,gry planszowe,stacjonarnie
+290,Helena,Kobieta,11,rosyjski,B1,pływanie,stacjonarnie
+291,Patryk,Mężczyzna,22,niemiecki,B2,anime,stacjonarnie
+292,Adam,Mężczyzna,18,włoski,B1,gry wideo,stacjonarnie
+293,Wiktoria,Kobieta,18,rosyjski,A1,gra na perkusji,stacjonarnie
+294,Kazimierz,Mężczyzna,15,francuski,A2,taniec hip hop,stacjonarnie
+295,Malwina,Kobieta,10,angielski,A2,czytanie książek,stacjonarnie
+296,Henryk,Mężczyzna,14,angielski,B2,jazda na rolkach,zdalnie
+297,Maciej,Mężczyzna,15,angielski,C1,taniec hip hop,stacjonarnie
+298,Elżbieta,Kobieta,20,angielski,A1,gra na gitarze,stacjonarnie
+299,Julian,Mężczyzna,20,angielski,C1,jazda na rowerze,zdalnie
+300,Pola,Kobieta,18,angielski,B1,anime,zdalnie
